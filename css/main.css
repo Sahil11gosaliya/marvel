@@ -78,7 +78,7 @@ body {
     .characters li img { width:150px; cursor: pointer;}
 
     .sprite {
-        max-width: 150px;
+        width: 150px;
         height: 150px;
         background-image: url('../images/marvelSprites.jpg');
 
@@ -95,7 +95,7 @@ body {
     #cap { background-position: -900px 0;}
 
 
-    .red-bumper {height: 6px; background-color: red;}
+    .red-bumper {height: 6px; background-color: red; }
 
 
     article { padding: 20px;}
